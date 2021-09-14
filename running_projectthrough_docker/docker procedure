@@ -1,0 +1,12 @@
+step1---> right click on pom.xml/project and goto "debugas" then click on "maven install"
+step2--> start the docker/docker desktop
+step3---> move the directory of the cmd to where the DockerFile of the project is present in ur laptop
+step4--->then build the image for the project
+step5--->we can create a container and then push the generated image into that container or directly run the image which at last creates a container for it by itdelf(Docker)
+step-6--->go to the browser and generate the http request desired by the project to start
+step-7--> stop the container
+step-8--->remove the container
+step-9---> remove the image of the project
+step-10-->type "cls" in ur cmd
+step-11-->type "exit" in ur cmd
+step-12-->stop the docker running in ur laptop
